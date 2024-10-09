@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "435767152730",
+    "project_id": "calificaciones-fd59f",
+    "storage_bucket": "calificaciones-fd59f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435767152730:android:9683e0abf3a6f5414cc863",
+        "android_client_info": {
+          "package_name": "com.example.nps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB72pv3yToXVYLnXcezdHx30INJmok_2qM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
